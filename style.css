@@ -20,6 +20,11 @@ h6 {
     font-weight: 400;
 }
 
+header{
+                background:transparent url('img/fondo.png') top center no-repeat;
+                background-size:100% auto;
+                padding-top:34vw;
+            }
 /* para ajustar algo que queda lost in translation */
 em,
 cite {
