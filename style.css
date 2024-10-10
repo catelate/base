@@ -21,10 +21,13 @@ h6 {
 }
 
 header{
-                background:transparent url('img/fondo.png') top center no-repeat;
-                background-size:100% auto;
-                padding-top:34vw;
-            }
+    padding:25vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 1)), url("img/fondo.png");
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
 /* para ajustar algo que queda lost in translation */
 em,
 cite {
